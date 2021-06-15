@@ -1,24 +1,5 @@
 # vue-demo
 
-## Project setup
-```
-npm install
-```
+建立过程请参考博客内容
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[https://my.oschina.net/solate/blog/5079266](https://my.oschina.net/solate/blog/5079266)
